@@ -19,7 +19,7 @@ General idea:
 
 ## F1 weekly
 
-Gerneral idea:
+General idea:
 
 - I don't have time to keep up with Formula 1 any more so I want to build a website that provides me with the latest information on the weekend's racing
 - Uses the http://ergast.com/mrd/ API
