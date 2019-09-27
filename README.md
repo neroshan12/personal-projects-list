@@ -34,6 +34,7 @@ General idea:
 - API key generated from my Pocket account
 - Basic cards with urls, images, titles etc
 - API docs: https://getpocket.com/developer/
+- NOTE: to better understand how browsers, frameworks, infrastructure works the idea is to build the app with React first then go back and build it as a static html page with logic extracted out into lambdas, look into caching and ways to make the application more efficient.
 
 ## What the FX?!
 
